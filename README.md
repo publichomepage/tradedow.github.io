@@ -1,5 +1,6 @@
 copy id-app
-mkdir dist
+mkdir docs
+update angular.json  "outputPath": "../docs/",
 # package.json update app name to two letter - app [ td-app ]
 
 # Run below command
