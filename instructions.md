@@ -45,4 +45,8 @@ npm update
     Update app name
 
 * Github page settings
-    Select the branch main and update folder root and save
+    ng build --configuration=production
+    cd dist
+    cp -r dist ..
+    go to github.com
+    Select the branch main and update folder (root) and save
