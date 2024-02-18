@@ -43,3 +43,6 @@ npm update
 
 * Update app.component.ts
     Update app name
+
+* Github page settings
+    Select the branch main and update folder docs/ and save
