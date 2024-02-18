@@ -1,6 +1,6 @@
 copy id-app
 mkdir docs
-update angular.json  "outputPath": "../docs/",
+update angular.json  "outputPath": "../dist/",
 # package.json update app name to two letter - app [ td-app ]
 
 # Run below command
@@ -45,4 +45,4 @@ npm update
     Update app name
 
 * Github page settings
-    Select the branch main and update folder docs/ and save
+    Select the branch main and update folder root and save
