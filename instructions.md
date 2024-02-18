@@ -44,6 +44,11 @@ npm update
 * Update app.component.ts
     Update app name
 
+* Update environment files
+    Update fields e.g clientSecret <GithubAuth>
+    gh_default_user_repo : <username> / <orgname>,
+    gh_dr_folder: <branchName/foldername>
+
 * Github page settings
     ng build --configuration=production
     cd dist
